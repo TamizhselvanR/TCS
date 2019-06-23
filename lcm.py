@@ -8,4 +8,4 @@ if __name__ == '__main__':
     a = 22
     b = 6
     maxi = max(a,b)
-    print(lcm(a,b,maxi))
+    print(lcm(a,b,maxi)) 
