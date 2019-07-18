@@ -1,5 +1,7 @@
-j = 1
-for i in range(5):
-    print(" " * (5-1-i)),
-    print("*" * j)
-    j += 2
+x=5
+y=6
+temp=x
+x=y
+y=temp
+print(x)
+print(y)
